@@ -1,2 +1,5 @@
 # hello-world
-my first repository
+____________________________
+
+Hi to everyone 
+this is my feirst changes n this branch
